@@ -150,56 +150,6 @@
 			"name": "Obecná škola",
 			"genre": "Komedie / Drama",
 			"rating": "89"
-		}, {
-			"id": "31",
-			"name": "„Marečku, podejte mi pero!“",
-			"genre": "Komedie",
-			"rating": "89"
-		}, {
-			"id": "32",
-			"name": "S čerty nejsou žerty",
-			"genre": "Pohádka / Komedie",
-			"rating": "89"
-		}, {
-			"id": "33",
-			"name": "Star Wars: Epizoda V - Impérium vrací úder",
-			"genre": "Sci-Fi / Dobrodružný / Fantasy / Akční",
-			"rating": "89"
-		}, {
-			"id": "34",
-			"name": "Pán prstenů: Dvě věže",
-			"genre": "Fantasy / Dobrodružný / Akční",
-			"rating": "88"
-		}, {
-			"id": "35",
-			"name": "Spalovač mrtvol",
-			"genre": "Drama / Horor / Thriller / Psychologický / Komedie",
-			"rating": "89"
-		}, {
-			"id": "36",
-			"name": "Návrat do budoucnosti",
-			"genre": "Dobrodružný / Komedie / Sci-Fi",
-			"rating": "89"
-		}, {
-			"id": "37",
-			"name": "Čistá duše",
-			"genre": "Drama / Životopisný",
-			"rating": "89"
-		}, {
-			"id": "38",
-			"name": "Lví král",
-			"genre": "Animovaný / Dobrodružný / Drama / Rodinný / Muzikál",
-			"rating": "86"
-		}, {
-			"id": "39",
-			"name": "Čarodějův učeň",
-			"genre": "Animovaný / Horor / Pohádka",
-			"rating": "86"
-		}, {
-			"id": "40",
-			"name": "Smrt krásných srnců",
-			"genre": "Drama / Komedie",
-			"rating": "86"
 		}
 	]
 }
