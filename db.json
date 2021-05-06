@@ -1,11 +1,10 @@
 {
-	"users": [
+	"titles": [
 		{
-			"id": "1",
-			"firstName": "Denny"
-		}, {
-			"id": "2",
-			"firstName": "Larry"
+			"id": "",
+			"name": "",
+			"genre": "",
+			"rating": ""
 		}
 	]
 }
