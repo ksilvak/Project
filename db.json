@@ -1,10 +1,205 @@
 {
 	"titles": [
 		{
-			"id": "",
-			"name": "",
-			"genre": "",
-			"rating": ""
+			"id": "1",
+			"name": "Shrek",
+			"genre": "Animovaný / Dobrodružný / Rodinný / Komedie",
+			"rating": "87"
+		}, {
+			"id": "2",
+			"name": "Na samotě u lesa",
+			"genre": "Komedie / Rodinný / Drama",
+			"rating": "87"
+		}, {
+			"id": "3",
+			"name": "Zelená míle",
+			"genre": "Drama / Mysteriózní / Krimi",
+			"rating": "93"
+		}, {
+			"id": "4",
+			"name": "Rain Man",
+			"genre": "Drama / Road movie",
+			"rating": "90"
+		}, {
+			"id": "5",
+			"name": "Vyšší princip",
+			"genre": "Drama / Válečný",
+			"rating": "90"
+		}, {
+			"id": "6",
+			"name": "Hon",
+			"genre": "Drama",
+			"rating": "88"
+		}, {
+			"id": "7",
+			"name": "Obvyklí podezřelí",
+			"genre": "Drama / Krimi / Mysteriózní / Thriller",
+			"rating": "88"
+		}, {
+			"id": "8",
+			"name": "Dokonalý trik",
+			"genre": "Drama / Mysteriózní / Thriller",
+			"rating": "88"
+		}, {
+			"id": "9",
+			"name": "Smrtonosná zbraň",
+			"genre": "Akční / Krimi / Thriller",
+			"rating": "88"
+		}, {
+			"id": "10",
+			"name": "Psycho",
+			"genre": "Horor / Mysteriózní / Thriller",
+			"rating": "88"
+		}, {
+			"id": "11",
+			"name": "Poslední skaut",
+			"genre": "Akční / Krimi / Thriller / Komedie",
+			"rating": "87"
+		}, {
+			"id": "12",
+			"name": "Uprchlík",
+			"genre": "Akční / Thriller / Drama",
+			"rating": "87"
+		}, {
+			"id": "13",
+			"name": "Čas probuzení",
+			"genre": "Drama / Životopisný",
+			"rating": "87"
+		}, {
+			"id": "14",
+			"name": "Princezna Mononoke",
+			"genre": "Animovaný / Dobrodružný / Fantasy",
+			"rating": "87"
+		}, {
+			"id": "15",
+			"name": "Světáci",
+			"genre": "Komedie / Hudební",
+			"rating": "87"
+		}, {
+			"id": "16",
+			"name": "Truman Show",
+			"genre": "Drama / Komedie / Sci-Fi",
+			"rating": "87"
+		}, {
+			"id": "17",
+			"name": "Vykoupení z věznice Shawshank",
+			"genre": "Drama / Krimi",
+			"rating": "95"
+		}, {
+			"id": "18",
+			"name": "Forrest Gump",
+			"genre": "Drama / Komedie / Romantický",
+			"rating": "94"
+		}, {
+			"id": "19",
+			"name": "Schindlerův seznam",
+			"genre": "Drama / Historický / Životopisný",
+			"rating": "92"
+		}, {
+			"id": "20",
+			"name": "Pán prstenů: Společenstvo Prstenu",
+			"genre": "Fantasy / Dobrodružný / Akční",
+			"rating": "90"
+		}, {
+			"id": "21",
+			"name": "Pulp Fiction: Historky z podsvětí",
+			"genre": "Krimi / Drama",
+			"rating": "91"
+		}, {
+			"id": "22",
+			"name": "Pán prstenů: Návrat krále",
+			"genre": "Fantasy / Dobrodružný / Akční",
+			"rating": "90"
+		}, {
+			"id": "23",
+			"name": "The Matrix",
+			"genre": "Akční / Sci-Fi",
+			"rating": "90"
+		}, {
+			"id": "24",
+			"name": "Rivalové",
+			"genre": "Drama / Životopisný / Sportovní / Akční",
+			"rating": "90"
+		}, {
+			"id": "25",
+			"name": "Vetřelec",
+			"genre": "Horor / Sci-Fi",
+			"rating": "90"
+		}, {
+			"id": "26",
+			"name": "Vyšší princip",
+			"genre": "Drama / Válečný",
+			"rating": "90"
+		}, {
+			"id": "27",
+			"name": "Leon",
+			"genre": "Drama / Krimi / Thriller",
+			"rating": "89"
+		}, {
+			"id": "28",
+			"name": "Amadeus",
+			"genre": "Drama / Životopisný / Hudební",
+			"rating": "89"
+		}, {
+			"id": "29",
+			"name": "Butch Cassidy a Sundance Kid",
+			"genre": "Drama / Krimi / Western / Životopisný",
+			"rating": "89"
+		}, {
+			"id": "30",
+			"name": "Obecná škola",
+			"genre": "Komedie / Drama",
+			"rating": "89"
+		}, {
+			"id": "31",
+			"name": "„Marečku, podejte mi pero!“",
+			"genre": "Komedie",
+			"rating": "89"
+		}, {
+			"id": "32",
+			"name": "S čerty nejsou žerty",
+			"genre": "Pohádka / Komedie",
+			"rating": "89"
+		}, {
+			"id": "33",
+			"name": "Star Wars: Epizoda V - Impérium vrací úder",
+			"genre": "Sci-Fi / Dobrodružný / Fantasy / Akční",
+			"rating": "89"
+		}, {
+			"id": "34",
+			"name": "Pán prstenů: Dvě věže",
+			"genre": "Fantasy / Dobrodružný / Akční",
+			"rating": "88"
+		}, {
+			"id": "35",
+			"name": "Spalovač mrtvol",
+			"genre": "Drama / Horor / Thriller / Psychologický / Komedie",
+			"rating": "89"
+		}, {
+			"id": "36",
+			"name": "Návrat do budoucnosti",
+			"genre": "Dobrodružný / Komedie / Sci-Fi",
+			"rating": "89"
+		}, {
+			"id": "37",
+			"name": "Čistá duše",
+			"genre": "Drama / Životopisný",
+			"rating": "89"
+		}, {
+			"id": "38",
+			"name": "Lví král",
+			"genre": "Animovaný / Dobrodružný / Drama / Rodinný / Muzikál",
+			"rating": "86"
+		}, {
+			"id": "39",
+			"name": "Čarodějův učeň",
+			"genre": "Animovaný / Horor / Pohádka",
+			"rating": "86"
+		}, {
+			"id": "40",
+			"name": "Smrt krásných srnců",
+			"genre": "Drama / Komedie",
+			"rating": "86"
 		}
 	]
 }
